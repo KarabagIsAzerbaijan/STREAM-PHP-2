@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 
 # Hedef site URL'si
-url = "http://65.21.85.175:8000/playlist.m3u8?token=livetv"
+url = "http://91.205.199.3/eurokino/index.m3u8"
 
 # Klasör ve dosya adı
 output_folder = "yayin_linkleri"
